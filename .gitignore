@@ -1,0 +1,14 @@
+# Datasets: the UCI downloads and the generated Q1/Q2 sample files
+data/
+
+# Generated PDFs of the code, in hw1 and in utils
+*.pdf
+
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+*.swp
